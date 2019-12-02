@@ -597,3 +597,12 @@ a h3{
 }
 
 }
+#banner{
+    background-image: url(./index/banner.png);
+    width:1920px;
+    height:630px;
+    background-size:85.42%;
+    background-repeat: no-repeat;
+    position:relative;
+
+}
